@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Berries Disk</title>
+    <item>
+      <title>0.2.0</title>
+      <pubDate>Wed, 25 Nov 2026 03:37:58 +0000</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Build folders in your projects with one-click Move to Trash. Updates itself from now on (Check for Updates…).]]></description>
+      <enclosure url="https://github.com/Theinnercircleecommerce/BerriesDisk-updates/releases/download/v0.2.0/BerriesDisk-0.2.0.zip" type="application/octet-stream" sparkle:edSignature="VtOEgbVi+M3zmLUNg/hnnP3+dg2ofEUc8R9h186e6w6LIL+tdwE+KYbT+d3KIU0y6ftdN9gsLRxUX8iorWfSAQ==" length="3322236" />
+    </item>
+
+  </channel>
+</rss>
